@@ -11,7 +11,7 @@ I run AI agents in production: **observability, evaluations and optimization on 
 | [**KubeMicro**](https://github.com/oscarmajai/KubeMicro) | Resilient microservices on EKS: Terraform, GitOps with Argo CD, Trivy-gated CI, Prometheus + Grafana | Terraform · EKS · Argo CD · Go |
 | [**Lumen**](https://github.com/oscarmajai/Lumen) | Multi-tenant AI chat with RAG and per-company data isolation | Fastify · React · MySQL · Dify |
 | [**AITRAFFIC**](https://github.com/oscarmajai/AiTraffic) | Edge computer-vision traffic control · InnovaTecNM 2025 national finalist | Python · YOLOv5 · OpenCV |
-| **VitereBI** | Serverless sales data warehouse, ~2M rows reconciled across Medallion layers | Lambda · S3 · Athena · Power BI |
+| [**VentasBI**](https://github.com/oscarmajai/VentasBI) | Serverless sales data warehouse, ~2M rows reconciled across Medallion layers | Lambda · S3 · Athena · Power BI |
 | **MuscleLab** | Offline-first Android training app, [live on Google Play](https://play.google.com/store/apps/details?id=dev.oscarmajai.musclelab) | Kotlin · Compose · Room · Supabase |
 
 More at **[oscarmajai.dev](https://oscarmajai.dev)**.
